@@ -1,0 +1,18 @@
+[
+  {
+    "id": "intro-to-react",
+    "title": "Introduction to React",
+    "summary": "A beginner-friendly introduction to the React JavaScript library.",
+    "date": "2025-07-01",
+    "coverImage": "https://raw.githubusercontent.com/Dhadzo/portfolio-data/main/blogs/images/react-intro-cover.png",
+    "markdownUrl": "https://raw.githubusercontent.com/Dhadzo/portfolio-data/main/blogs/intro-to-react.md"
+  },
+  {
+    "id": "clean-code-principles",
+    "title": "Clean Code Principles for Frontend Developers",
+    "summary": "Learn the core principles of writing clean and maintainable frontend code.",
+    "date": "2025-06-25",
+    "coverImage": "https://raw.githubusercontent.com/Dhadzo/portfolio-data/main/blogs/images/clean-code-cover.png",
+    "markdownUrl": "https://raw.githubusercontent.com/Dhadzo/portfolio-data/main/blogs/clean-code-principles.md"
+  }
+]
