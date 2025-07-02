@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Social Network",
+    "description": "A platform for users to connect, share, and communicate.",
+    "technologies": ["React", "Node.js", "PostgreSQL"],
+    "imageUrl": "https://example.com/social-network.png",
+    "link": "https://social-network-one-azure.vercel.app/"
+  },
+  {
+    "title": "Notes App",
+    "description": "A simple application for taking and managing notes.",
+    "technologies": ["React", "Node.js", "PostgreSQL"],
+    "imageUrl": "https://example.com/social-network.png",
+    "link": "https://notes-app-one-azure.vercel.app/"
+  }
+]
