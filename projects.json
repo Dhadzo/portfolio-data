@@ -3,14 +3,14 @@
     "title": "Social Network",
     "description": "A platform for users to connect, share, and communicate.",
     "technologies": ["React", "Node.js", "PostgreSQL"],
-    "imageUrl": "https://raw.githubusercontent.com/Dhadzo/portfolio-data/3b723c5c06322885861d83c53f0f0426919b760e/social-network.png",
+    "image": "https://raw.githubusercontent.com/Dhadzo/portfolio-data/3b723c5c06322885861d83c53f0f0426919b760e/social-network.png",
     "link": "https://social-network-one-azure.vercel.app/"
   },
   {
     "title": "Notes App",
     "description": "A simple application for taking and managing notes.",
     "technologies": ["React", "Node.js", "PostgreSQL"],
-    "imageUrl": "https://raw.githubusercontent.com/Dhadzo/portfolio-data/3b723c5c06322885861d83c53f0f0426919b760e/notes-app.png",
+    "image": "https://raw.githubusercontent.com/Dhadzo/portfolio-data/3b723c5c06322885861d83c53f0f0426919b760e/notes-app.png",
     "link": "https://notes-app-one-azure.vercel.app/"
   }
 ]
